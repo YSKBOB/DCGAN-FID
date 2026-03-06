@@ -1,0 +1,1 @@
+-Bu fotoğraflar temsili olup arayüz backend kodu kullanılmadan deneysel bir ortamda çalıştırılmıştır.
